@@ -1,0 +1,15 @@
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Amazon.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Cost/DeliveryPrice.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Cost/ExtraCostForElectronics.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Cost/ItemType.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Cost/PriceRule.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Cost/RegularCost.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Database.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/Item.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCart.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Barnes/BarnesAndNoble.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Barnes/Book.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Barnes/BookDatabase.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Barnes/BuyBookProcess.java
+/home/nacho/Downloads/Assignment5_Code/src/main/java/org/example/Barnes/PurchaseSummary.java
