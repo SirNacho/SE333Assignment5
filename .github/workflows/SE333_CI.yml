@@ -36,4 +36,4 @@ jobs:
         if: always()
         with:
           name: jacoco.xml
-          path: target/jacoco.xml
+          path: target/site/jacoco/jacoco.xml
