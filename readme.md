@@ -1,0 +1,2 @@
+# Steven Frausto SE 333 Assignment 5:
+## Build Status: [![.github/workflows/SE333_CI.yml](https://github.com/SirNacho/SE333Assignment5/actions/workflows/SE333_CI.yml/badge.svg)](https://github.com/SirNacho/SE333Assignment5/actions/workflows/SE333_CI.yml)
